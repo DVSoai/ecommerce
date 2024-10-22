@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "574094765532",
+    "project_id": "ecommerce-app-ffccc",
+    "storage_bucket": "ecommerce-app-ffccc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574094765532:android:52bd219a67b60906a8f319",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574094765532-3i04mrie31e58ajjljvl9v2se2jv0f5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFyh6gMuDPPCLrhc2_tlWijwy1nj-rcLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574094765532-3i04mrie31e58ajjljvl9v2se2jv0f5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
